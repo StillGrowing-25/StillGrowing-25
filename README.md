@@ -54,6 +54,7 @@ const aarzoo = {
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=StillGrowing-25&theme=nord&hide_border=true&border_radius=12&background=FFFFFF&ring=000080&fire=4169E1&currStreakLabel=000080" />
 </p>
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=StillGrowing-25&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
