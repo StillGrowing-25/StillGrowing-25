@@ -46,17 +46,12 @@ const aarzoo = {
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=StillGrowing-25&show_icons=true&theme=nord&hide_border=true&border_radius=12&border_color=000080&title_color=000080&text_color=333333&icon_color=4169E1&bg_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StillGrowing-25&layout=compact&theme=nord&hide_border=true&border_radius=12&border_color=000080&title_color=000080&text_color=333333&bg_color=ffffff" width="46%" />
-</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=StillGrowing-25&theme=nord&hide_border=true&border_radius=12&background=FFFFFF&ring=000080&fire=4169E1&currStreakLabel=000080" />
 </p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=StillGrowing-25&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=StillGrowing-25&theme=nord&hide_border=true&color=000080&line=4169E1&point=000080&area=true&area_color=4169E1" />
