@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F9A,100:FFC1E3&height=220&section=header&text=Hi%20There,%20I'm%20Aarzoo%20🌸&fontSize=42&fontColor=ffffff&animation=twinkling"/>
-
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4F9A&center=true&width=650&lines=CS+Student+🎓;Exploring+DSA+%2B+AI%2FML+🤖;Building+Full+Stack+Projects+💻;Always+Learning+🌸"/>
