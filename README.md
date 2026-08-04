@@ -67,7 +67,6 @@ const aarzoo = {
 - 🤖 Exploring AI & Machine Learning.
 - ☕ Coffee + Coding = Productivity.
 
-
 ## 📫 Connect
 
 <p align="center">
