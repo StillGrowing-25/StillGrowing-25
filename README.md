@@ -19,6 +19,7 @@ const aarzoo = {
   building:["ShopEase","Smart Inventory"],
   motto:"Keep Growing 🌸"
 }
+
 ```
 
 ## 💖 Currently Learning
